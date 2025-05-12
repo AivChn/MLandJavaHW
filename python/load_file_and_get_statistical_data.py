@@ -2,6 +2,8 @@ import math
 import pandas as pd
 from matplotlib import pyplot
 
+# Amishav Cohen
+
 data = pd.read_csv('students.csv')
 
 def get_std(datapoints):
