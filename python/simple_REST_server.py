@@ -7,7 +7,7 @@ app = Flask(__name__)
 data = [{
     'People': [
         {'Name': 'Amishav', 'Age': 19, 'ID': 123456789},
-        {'Name': 'PoopyButHole', 'Age': 290, 'ID': 999999999}
+        {'Name': 'Ron', 'Age': 290, 'ID': 999999999}
     ]
 }]
 
